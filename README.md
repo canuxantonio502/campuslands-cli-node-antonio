@@ -90,4 +90,5 @@ Si encuentras algún error, verifica que estás utilizando una versión compatib
 ## :feather: Autores
 He aquí los responsables de que este proyecto se haya podido llevar a cabo:
 
-* **Antonio Canux** - *Único colaborador* - [canuxantonio502](https://github.com/canuxantonio502)
+* **Antonio Canux** - *Owner* - [canuxantonio502](https://github.com/canuxantonio502)
+* **Andre Lopez** - *Mentor* - [anndreloopez012](https://github.com/anndreloopez012)
