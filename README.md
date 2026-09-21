@@ -86,3 +86,8 @@ Este archivo almacena los datos de los campers en formato JSON. Es el "almacén"
 **Notas**:
 Asegúrate de que el archivo data/campers.json tenga permisos de lectura y escritura.
 Si encuentras algún error, verifica que estás utilizando una versión compatible de Node.js y que las dependencias están instaladas correctamente.
+
+## :feather: Autores
+He aquí los responsables de que este proyecto se haya podido llevar a cabo:
+
+* **Antonio Canux** - *Único colaborador* - [canuxantonio502](https://github.com/canuxantonio502)
