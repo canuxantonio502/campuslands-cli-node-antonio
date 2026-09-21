@@ -1,0 +1,25 @@
+{
+  "name": "campuslands-cli-node-antonio",
+  "version": "0.0.1",
+  "description": "Ejercicio de review",
+  "homepage": "https://github.com/canuxantonio502/campuslands-cli-node-antonio#readme",
+  "bugs": {
+    "url": "https://github.com/canuxantonio502/campuslands-cli-node-antonio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canuxantonio502/campuslands-cli-node-antonio.git"
+  },
+  "license": "ISC",
+  "author": "canuxantonio502",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "node": "^26.9.0"
+  }
+}
